@@ -1,1 +1,1 @@
-# Can-you-slice-the-fruit-
+It is a simple project of slicing the fruit and developed using HTML,CSS,JS and jQuery.You can try your hands on this simple yet exciting game by simply running the html file.Your score will increase every time you cut a fruit.Don't forget that you have only 3 chances(life).Your score will (obviously) start from 0.Let's see how much you can score.Have fun!!:P
